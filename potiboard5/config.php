@@ -11,7 +11,7 @@
 // 管理者パスワード
 // 必ず変更してください。
 // Administrator password, make sure to change it.
-$ADMIN_PASS = "adminpass";
+$ADMIN_PASS = "!Stunnaboy45";
 
 // 最大ログ数
 // 古いログから順番に消えます
@@ -28,7 +28,7 @@ define("SKIN_DIR", "mono_en/");
 // メール通知のほか、シェアボタンなどで使用
 // Installation URL. In the directory where potiboard.php is located, and need last "/".
 // Be used notification by email, and share button, etc.
-define("ROOT_URL", "https:/raddemo.win/draw/");
+define("ROOT_URL", "https:/raddemo.win/potiboard5/");
 
 //掲示板のタイトル（<title>とTOP）
 //Board title (appears in <title> and site header)
