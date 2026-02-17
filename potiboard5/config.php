@@ -39,7 +39,7 @@ define("TITLE", "Paint BBS");
 // 自分のサイトのURL（絶対パスも可）をどうぞ。
 // URL to link your own site. They had own sites ago.
 // Absolute path is OK.
-define("HOME", "../");
+define("HOME", "https://raddemo.win/");
 
 // 画像アップロード機能を 使う:1 使わない:0
 // 使わない:0 でも お絵かき機能は使えますし、
