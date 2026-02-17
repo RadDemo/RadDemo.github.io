@@ -28,7 +28,7 @@ define("SKIN_DIR", "mono_en/");
 // メール通知のほか、シェアボタンなどで使用
 // Installation URL. In the directory where potiboard.php is located, and need last "/".
 // Be used notification by email, and share button, etc.
-define("ROOT_URL", "https://example.com/oekaki/");
+define("ROOT_URL", "https:/raddemo.win/draw/");
 
 //掲示板のタイトル（<title>とTOP）
 //Board title (appears in <title> and site header)
